@@ -1,1 +1,1 @@
-
+my first experience working with pyfiglet and folium, the essence of the code, we get an IP address at the input, the requested data and a file with a city map at the output, the IP address received at the input.
