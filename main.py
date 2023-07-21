@@ -29,7 +29,6 @@ def get_info_by_ip(ip='127.0.0.1'):
     except requests.exceptions.ConnectionError:
         print('[!] Please check your connections')
 
-
 def main():
     preview_text = Figlet(font='slant')
     print(preview_text.renderText('IP INFO'))
